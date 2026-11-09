@@ -20,7 +20,7 @@ php cecil.phar build
 
 Le dépôt utilise GitHub Actions pour construire et publier le site à chaque envoi sur la branche `main` (ou `master`). Le site sera disponible à l’adresse :
 
-<https://hkyakwanda-tech.github.io/L3IAGE-IGAFE_2026/>
+<https://hopekyakwanda-tech.github.io/L3IAGE-IGAFE_2026/>
 
 Dans GitHub, vérifiez que **Settings → Pages → Build and deployment → Source** est réglé sur **GitHub Actions**. Consultez ensuite l’onglet **Actions** pour suivre la publication.
 
